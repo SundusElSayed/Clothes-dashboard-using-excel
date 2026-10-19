@@ -8,6 +8,7 @@ The dashboard transforms raw retail data into meaningful insights, helping stake
 
 ## 🖥️ Dashboard Preview
 
+![Clothes Store Analysis Dashboard](https://github.com/SundusElSayed/Clothes-dashboard-using-excel/blob/main/Screenshot%202026-10-19%20210037.png?raw=true)
 
 ## 🎯 Business Objectives
 
